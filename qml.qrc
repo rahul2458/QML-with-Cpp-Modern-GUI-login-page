@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/CustomTextField.qml</file>
+        <file>components/CustomToolTIpL.qml</file>
+        <file>components/SearchTextField.qml</file>
+        <file>components/TopBarButton.qml</file>
+        <file>Images/close_icon.svg</file>
+        <file>page/MainPage.qml</file>
+        <file>Images/VisualMainpageLogo.png</file>
+        <file>page/TopUpperBtn.qml</file>
+        <file>Images/maximize_icon.svg</file>
+        <file>Images/minimize_icon.svg</file>
+        <file>components/ProgressBarComp.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Images/icons8_github_30px.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/logo2.png</file>
+        <file>Images/pngwing.png</file>
+    </qresource>
+</RCC>
